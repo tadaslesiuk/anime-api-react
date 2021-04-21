@@ -1,3 +1,18 @@
+# ANIME API application (React)
+
+## Technologies used
+```
+• React
+```
+
+## Description
+```
+This is a simple API for discovering anime. All of the data is being fetched from jikan.moe website's API.
+```
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/53432165/115599576-7723a500-a2e4-11eb-9f5c-199f195216a5.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
