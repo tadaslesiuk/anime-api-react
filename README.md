@@ -3,6 +3,7 @@
 ## Technologies used
 ```
 • React
+• Bootstrap 4
 ```
 
 ## Description
@@ -11,7 +12,7 @@ This is a simple API for discovering anime. All of the data is being fetched fro
 ```
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/53432165/115599576-7723a500-a2e4-11eb-9f5c-199f195216a5.png)
+![image](https://user-images.githubusercontent.com/53432165/115621302-fd4ce500-a2fe-11eb-98ad-342d75b1236c.png)
 
 # Getting Started with Create React App
 
