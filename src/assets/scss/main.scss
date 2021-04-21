@@ -3,12 +3,17 @@
 	padding: 0;
 	box-sizing: border-box;
 
-	font-family: 'Fira Sans', sans-serif;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 header {
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 10px;
+	padding-bottom: 20px;
 
 	h1 {
 		color: #AAA;
@@ -22,8 +27,16 @@ header {
 	}
 }
 
-hr {
-    margin: 25px 0;
+.jumbotron {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.badge {
+    color: #fff;
+    font-weight: normal;
+    font-size: 80%;
+    height: fit-content;
 }
 
 .content-wrap {
@@ -31,7 +44,7 @@ hr {
 
 	aside {
 		flex: 1 1 250px;
-		max-width: 250px;
+		max-width: 300px;
 		padding-right: 16px;
 
 		nav {
