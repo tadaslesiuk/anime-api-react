@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/anime-api-react/static/css/main.dea998b4.chunk.css",
-    "main.js": "/anime-api-react/static/js/main.7c18195f.chunk.js",
-    "main.js.map": "/anime-api-react/static/js/main.7c18195f.chunk.js.map",
+    "main.css": "/anime-api-react/static/css/main.9a9c4d4f.chunk.css",
+    "main.js": "/anime-api-react/static/js/main.552ddb02.chunk.js",
+    "main.js.map": "/anime-api-react/static/js/main.552ddb02.chunk.js.map",
     "runtime-main.js": "/anime-api-react/static/js/runtime-main.e627ad54.js",
     "runtime-main.js.map": "/anime-api-react/static/js/runtime-main.e627ad54.js.map",
     "static/js/2.c83b9ff6.chunk.js": "/anime-api-react/static/js/2.c83b9ff6.chunk.js",
     "static/js/2.c83b9ff6.chunk.js.map": "/anime-api-react/static/js/2.c83b9ff6.chunk.js.map",
     "index.html": "/anime-api-react/index.html",
-    "static/css/main.dea998b4.chunk.css.map": "/anime-api-react/static/css/main.dea998b4.chunk.css.map",
+    "static/css/main.9a9c4d4f.chunk.css.map": "/anime-api-react/static/css/main.9a9c4d4f.chunk.css.map",
     "static/js/2.c83b9ff6.chunk.js.LICENSE.txt": "/anime-api-react/static/js/2.c83b9ff6.chunk.js.LICENSE.txt",
     "static/media/logo.36a9fe01.png": "/anime-api-react/static/media/logo.36a9fe01.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e627ad54.js",
     "static/js/2.c83b9ff6.chunk.js",
-    "static/css/main.dea998b4.chunk.css",
-    "static/js/main.7c18195f.chunk.js"
+    "static/css/main.9a9c4d4f.chunk.css",
+    "static/js/main.552ddb02.chunk.js"
   ]
 }
