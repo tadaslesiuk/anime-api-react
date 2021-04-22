@@ -2,13 +2,17 @@ import React from 'react';
 
 function AnimeCard({ anime }) {
     return (
-        <div className="card mx-2 my-3 py-0" style={{width: "18rem"}}>
+        <div
+            className="card mx-2 my-3 py-0"
+            style={{ width: "18rem" }}
+        >
+
             {/* Image */}
             <img
                 src={anime.image_url}
                 alt={anime.title + ' Image'}
                 className="card-img-top"
-                style={{height: "350px"}}
+                style={{ height: "350px" }}
             />
 
             {/* Title */}
@@ -45,7 +49,7 @@ function AnimeCard({ anime }) {
                         <i className="fas fa-users"></i>
                             PG Rating
                             <span className="badge bg-primary rounded-pill">
-                                {anime.rated ? anime.rated : "No rating"}
+                            {anime.rated ? anime.rated : "No rating"}
                         </span>
                     </li>
 

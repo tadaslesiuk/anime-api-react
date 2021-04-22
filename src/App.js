@@ -20,12 +20,10 @@ function App() {
         .then(res => res.json());
 
         setAnimeList(list.results);
-        console.log(list.results);
     }
 
     const searchHandler = (e) => {
         e.preventDefault();
-        console.log(searchQuery);
         fetchAnime(searchQuery);
     }
 
