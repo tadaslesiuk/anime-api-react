@@ -1,4 +1,5 @@
 # ANIME API application (React)
+https://tadaslesiuk.github.io/anime-api-react/
 
 ## Technologies used
 ```
