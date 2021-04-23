@@ -13,7 +13,14 @@ This is a simple API for discovering anime. All of the data is being fetched fro
 ```
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/53432165/115621302-fd4ce500-a2fe-11eb-98ad-342d75b1236c.png)
+```
+Home page shows TOP 10 anime.
+```
+![image](https://user-images.githubusercontent.com/53432165/115801097-9bff4180-a3e4-11eb-9f36-1262fc372b33.png)
+```
+When searching, found anime results will be returned.
+```
+![image](https://user-images.githubusercontent.com/53432165/115801070-8c7ff880-a3e4-11eb-9124-ae01b3fc4413.png)
 
 # Getting Started with Create React App
 
