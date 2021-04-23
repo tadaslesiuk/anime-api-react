@@ -27,7 +27,7 @@ function Home(props) {
             {/* Search results (shows top 5 anime by default) */}
             {
                 props.animeList.length > 0 ?
-                    <div className="d-flex flex-wrap justify-content-start">
+                    <div className="d-flex flex-wrap justify-content-center">
                         {props.animeList.map(anime => (
                             <AnimeCard
                                 anime={anime}
@@ -36,7 +36,7 @@ function Home(props) {
                         ))}
                     </div>
                     :
-                    <div className="d-flex flex-wrap justify-content-start">
+                    <div className="d-flex flex-wrap justify-content-center">
                         {props.topAnimeList.map(anime => (
                             <AnimeCard
                                 anime={anime}
