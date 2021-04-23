@@ -4,7 +4,7 @@ function AnimeCard({ anime }) {
     return (
         <div
             className="card mx-2 my-3 py-0"
-            style={{ width: "18rem" }}
+            style={{ width: "17.56rem" }}
         >
 
             {/* Image */}
